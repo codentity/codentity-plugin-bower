@@ -9,6 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "codentity-plugin": "github:codentity/codentity-plugin",
-    "json-package-finder": "github:codentity/json-package-finder"
+    "json-package-finder": "github:codentity/json-package-finder",
+    "minimatch": "^3.0.0"
   }
 }
