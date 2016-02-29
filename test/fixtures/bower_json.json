@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "angular": "1.x",
+    "jquery": "2.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.x"
+  }
+}

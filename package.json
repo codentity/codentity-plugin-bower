@@ -1,15 +1,22 @@
 {
   "name": "codentity-plugin-bower",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Codentity plugin for finding Bower dependencies",
   "main": "lib/codentity-plugin-bower.js",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
   "keywords": [],
   "author": "Jack Stevens <jack@applyr.com>",
   "license": "ISC",
   "dependencies": {
     "codentity-plugin": "github:codentity/codentity-plugin",
     "json-package-finder": "github:codentity/json-package-finder",
+    "lodash": "^4.5.1",
     "minimatch": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }

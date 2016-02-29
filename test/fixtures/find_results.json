@@ -1,0 +1,13 @@
+[{
+  "dependencyGroup": "dependencies",
+  "packageName": "angular",
+  "plugin": "bower",
+  "src": "bowerJson",
+  "version": "1.x"
+},{
+  "dependencyGroup": "devDependencies",
+  "packageName": "angular-mocks",
+  "plugin": "bower",
+  "src": "bowerJson",
+  "version": "1.x"
+}]

@@ -1,0 +1,5 @@
+[
+  "vendor/src/jquery/jquery.min.js",
+  "vendor/src/angular/angular.min.js",
+  "lib/app.js"
+]
